@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -30,24 +29,3 @@
         android:layout_alignParentEnd="true" />
 
 </RelativeLayout>
-=======
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
-
-
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="提示框"
-        android:id="@+id/btn_adl"
-        />
-
-
-
-
-</LinearLayout>
->>>>>>> d60fed749b644b2f3cf4c14389bba3c5f94c3f31

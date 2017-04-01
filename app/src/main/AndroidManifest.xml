@@ -8,13 +8,23 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
         <activity android:name=".test">
+=======
+        <activity android:name=".four.fourth">
+>>>>>>> d60fed749b644b2f3cf4c14389bba3c5f94c3f31
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
+=======
+        <!-- activity android:name=".three.threexml"></activity -->
+        <!-- activity android:name=".one.first"></activity -->
+        <!--activity android:name=".four.fourth"></activity-->
+>>>>>>> d60fed749b644b2f3cf4c14389bba3c5f94c3f31
     </application>
 
 </manifest>
